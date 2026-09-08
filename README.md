@@ -36,3 +36,5 @@ Référencez le fichier `SKILL.md` ou placez-le dans vos règles de projet (`.cu
 
 ### En standalone (ChatGPT, Claude web...)
 Vous pouvez concaténer `SKILL.md` et `references/blacklist-lexique.md` dans un Custom GPT ou dans un prompt système.
+
+Pour me soutenir : https://www.agence-webgenius.fr/agence-seo/strasbourg
